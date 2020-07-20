@@ -1,0 +1,29 @@
+{
+  "Data": [
+    {
+      "id": 1,
+      "img": "https://i.pinimg.com/originals/ba/53/c0/ba53c03936df185bcfcb13f60f40c921.png",
+      "title": "Saldo Anda"
+    },
+    {
+      "id": 2,
+      "img": "https://i.pinimg.com/originals/b7/04/25/b70425e557c3bb5b5c40ca66ae551af0.png",
+      "title": "Ovo"
+    },
+    {
+      "id": 3,
+      "img": "https://i.pinimg.com/originals/a1/0f/31/a10f31f025c304c9027d813bd86252e6.png",
+      "title": "Gopay"
+    },
+    {
+      "id": 4,
+      "img": "https://i.pinimg.com/originals/54/50/6f/54506f601288a5b40e44676c80fd6859.png",
+      "title": "Dana"
+    },
+    {
+      "id": 5,
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LinkAja.svg/1200px-LinkAja.svg.png",
+      "title": "Link Aja"
+    }
+  ]
+}
